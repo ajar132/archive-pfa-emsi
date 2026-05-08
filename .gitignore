@@ -1,0 +1,21 @@
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Données utilisateur (à ne pas partager)
+database/archive.db
+storage/rapports/*.pdf
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
