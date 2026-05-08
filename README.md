@@ -46,10 +46,10 @@ python -m gui.login_window
 
 ## 📖 Comptes de test
 
-| Rôle | Email | Mot de passe |
-|---|---|---|
-| Administrateur | admin@ecole.ma | admin123 |
-| Encadrant | benali@ecole.ma | prof123 |
-| Étudiant | ahmed@ecole.ma | pass123 |
+| Rôle | Nom | Email | Mot de passe |
+|---|---|---|---|
+| Administrateur | El Mahdi BAKIROU | bakirou.admin@emsi.ma | bakirou2026 |
+| Encadrant | Yassine ZAIDANY | zaidany.encadrant@emsi.ma | zaidany2026 |
+| Étudiant | El Mahdi BAKIROU | bakirou.etudiant@emsi.ma | bakirou123 |
 
 ## 📁 Structure du projet
